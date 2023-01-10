@@ -8,8 +8,11 @@
   "socials": [
     { "icon": "FaTwitter", "url": "https://twitter.com/codingwithlucy" },
     { "icon": "FaGithub", "url": "https://github.com/lmac-1" },
-    { "icon": "FaYoutube", "url": "https://youtube.com/channel/UCcFG2cQfZRK178muVVkpnEw" }
-   ],
+    {
+      "icon": "FaYoutube",
+      "url": "https://youtube.com/channel/UCcFG2cQfZRK178muVVkpnEw"
+    }
+  ],
   "links": [
     {
       "name": "Follow me on GitHub",
@@ -57,8 +60,8 @@
       "title": "Started working as a technical writer",
       "date": "April 2022",
       "icon": "FaBook",
-      "color": "black"
-      "description": "Writing and managing documentation on Intercom and writing a weekly newsletter curating the best content on open source and software development.",
+      "color": "black",
+      "description": "Writing and managing documentation on Intercom and writing a weekly newsletter curating the best content on open source and software development."
     },
     {
       "title": "Published my first blog",
@@ -75,6 +78,6 @@
       "color": "black",
       "description": "Dando mis primeros pasos en Open Source",
       "url": "https://youtu.be/y-zJyGZjK3E"
-    },
+    }
   ]
 }
